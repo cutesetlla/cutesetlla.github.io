@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 青哟！</title>
+    <link>http://qing/post/</link>
+    <description>Recent content in Posts on 青哟！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 Feb 2019 18:56:49 +0800</lastBuildDate>
+    
+	<atom:link href="http://qing/post/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://qing/post/first/</link>
+      <pubDate>Sun, 10 Feb 2019 18:56:49 +0800</pubDate>
+      
+      <guid>http://qing/post/first/</guid>
+      <description>新年好!</description>
+    </item>
+    
+    <item>
+      <title>Hello Everyone!</title>
+      <link>http://qing/post/welcome/</link>
+      <pubDate>Sun, 10 Feb 2019 14:21:16 +0800</pubDate>
+      
+      <guid>http://qing/post/welcome/</guid>
+      <description>这是我的第一篇博客 大家好！</description>
+    </item>
+    
+  </channel>
+</rss>
