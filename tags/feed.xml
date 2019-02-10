@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 青哟！</title>
-    <link>http://qing/tags/</link>
+    <link>http://cutesetlla.github.io/tags/</link>
     <description>Recent content in Tags on 青哟！</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="http://qing/tags/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cutesetlla.github.io/tags/feed.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
